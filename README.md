@@ -73,20 +73,6 @@ You will also receive a **call** from the module for immediate attention.
 
 ---
 
-## 📂 Project Structure
-
-Advanced-LPG-Gas-Detection/
-├── code/
-│ └── GasLeakDetector.ino
-├── hardware/
-│ ├── schematics.jpg
-│ └── BOM.csv
-├── docs/
-│ └── documentation.pdf
-├── images/
-└── README.md
----
-
 
 ## 📸 Example Gallery
 
@@ -102,6 +88,7 @@ Advanced-LPG-Gas-Detection/
 If you’d like to add IoT integration (Blynk, MQTT, etc.), open an issue.
 
 📧 Contact: `sanjanamoulyakanuri@gmail.com`  
+
 
 
 
